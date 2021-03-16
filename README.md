@@ -1,4 +1,4 @@
-# Raiz_Deeplinks
+# RaizDeeplinks
 
 https://acornsgrowau.github.io/RaizDeeplinks/
 
